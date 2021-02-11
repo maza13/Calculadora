@@ -6,7 +6,7 @@ var display = document.getElementById("display-text");
 
 var isDot = false;
 var sentencia_string = "";
-var operations_type=["+","-","*","/"]
+var operations_type=["+","-","x","/"]
 var isEnter = false;
 
 

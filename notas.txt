@@ -1,9 +1,8 @@
 
 15-08-2020
-la calculadora va avanzada ya lee los numeros, pero no se si deva usar el istema de ir guardando el numero en una variable o como string y luego covertirnlo en numero;
+la calculadora va avanzada ya lee los numeros, pero no se si deva de ir guardando el numero en una variable o como string y luego covertirnlo en numero;
 
-resolver este problema 
 problema resuelto
----
-el mismo di mas tarde
+--
+el mismo dia mas tarde
 el punto no sirve, cuando ya se uso una vez no se puede usar en el siguiente numero
